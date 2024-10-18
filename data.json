@@ -1,0 +1,27 @@
+{
+    "coord": { "lon": -49.211, "lat": -25.3194 },
+    "weather": [
+      {
+        "id": 802,
+        "main": "Clouds",
+        "description": "scattered clouds",
+        "icon": "03d"
+      }
+    ],
+    "main": {
+      "temp": 26.23,
+      "feels_like": 26.23,
+      "temp_min": 26.06,
+      "temp_max": 26.54,
+      "pressure": 1012,
+      "humidity": 61
+    },
+    "wind": { "speed": 2.26, "deg": 251, "gust": 6.12 },
+    "clouds": { "all": 46 },
+    "sys": { "country": "BR", "sunrise": 1729068062, "sunset": 1729113794 },
+    "timezone": -10800,
+    "id": 3465927,
+    "name": "Colombo",
+    "cod": 200
+  }
+  
